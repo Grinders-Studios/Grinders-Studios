@@ -1,0 +1,4 @@
+- Heyo, We're @Grinders-Studios
+- We're a small Studio interested in developing games for Mobile and later PC
+- We're currently learning Java, C#, C++, Javascript and gdscript 
+- How to reach us grindersstudios@gmail.com
